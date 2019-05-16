@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1850147,
+        "name": "Tokyo",
+        "country": "JP"       
+    },
+
+    {
+        "id": 1848354,
+        "name": "Yokohama-shi",    
+        "country": "JP"  
+    },
+    {
+        "id": 1857910,
+        "name": "Kyoto",
+        "country": "JP"     
+    },
+    {
+        "id": 1853909,
+        "name": "Osaka-shi",
+        "country": "JP"   
+    },
+    {
+        "id": 2128295,
+        "name": "Sapporo-shi",
+        "country": "JP"    
+    }
+
+
+    
+]
